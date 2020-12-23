@@ -1,0 +1,12 @@
+add gold
+add silver
+add platinum
+add rhodium
+add iridium
+add iridium
+add iridium
+add ruthenium
+buy gold
+buy rhodium
+buy ruthenium
+buy crap
